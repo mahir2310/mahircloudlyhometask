@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.12
+PyPDF2==3.1.0
+# Optional: transformers for better MCQ generation. If unavailable, system uses local stub.
+transformers>=4.34.0; extra == "hf"
+pytest==7.4.0

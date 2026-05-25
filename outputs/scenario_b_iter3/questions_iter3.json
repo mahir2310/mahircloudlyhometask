@@ -1,0 +1,67 @@
+[
+  {
+    "id": "s8-0",
+    "section": 8,
+    "question": "Which statement best matches the section content? \"Formal coordination\nagreements govern these overlaps:\nCell C\u00f3ndor (Mendoza-based) \u2014 primary operator for Argentine Mendo\"",
+    "choices": [
+      "2 Secondary Bases\nBase Location Function\nEdificio\nMarasolAvenida Salaverry 1840,\nLimaPAMC Headquarters; the asset rotates through\nquarterly for senior briefings\nOficina TarijaCalle Bol\u00edvar 412, La PazField office, Bolivian altiplano operations\nAnnex\nTrelewIndustrial Park 7, Trelew,\nArgentinaLogistics-only annex, southern operations\n8",
+      "Punta Arenas\nNode redundancy: each cell-led operation requires line-of-comms to at least 2 nodes",
+      "Arica\n4 (detail)",
+      "Formal coordination\nagreements govern these overlaps:\nCell C\u00f3ndor (Mendoza-based) \u2014 primary operator for Argentine Mendoza and Neuqu\u00e9n;\nSLATEFALL coordinates entry\nOperative MIRADOR (Atacama) \u2014 senior PAMC operative, the asset's former trainer\nBolivian Servicio de Operaciones Especiales (SOE) \u2014 bilateral cooperation framework, La Paz\nAnnex 2023\nPeruvian Direcci\u00f3n de Asuntos Metahumanos (DAM) \u2014 observation-only sharing for Cuzco\noperations"
+    ],
+    "answer": 3,
+    "explanation": "Formal coordination\nagreements govern these overlaps:\nCell C\u00f3ndor (Mendoza-based) \u2014 primary operator for Argentine Mendoza and Neuqu\u00e9n;\nSLATEFALL coordinates entry\nOperative MIRADOR (Atacama) \u2014 senior PAMC operative, the asset's former trainer\nBolivian Servicio de Operaciones Especiales (SOE) \u2014 bilateral cooperation framework, La Paz\nAnnex 2023\nPeruvian Direcci\u00f3n de Asuntos Metahumanos (DAM) \u2014 observation-only sharing for Cuzco\noperations"
+  },
+  {
+    "id": "s8-1",
+    "section": 8,
+    "question": "Which statement best matches the section content? \"Valpara\u00edso (primary)\n2\"",
+    "choices": [
+      "Vendrame on behalf of the cell",
+      "The facility occupies a decommissioned Chilean Navy fuel depot at Avenida Altamirano\n1842, Valpara\u00edso, repurposed for PAMC use in 2017",
+      "Valpara\u00edso (primary)\n2",
+      "Parameter Value\nTotal floor area4,820 m\u00b2\nPersonnel capacity38 (residential), 142 (working)SLATEFALL_DOSSIER"
+    ],
+    "answer": 2,
+    "explanation": "Valpara\u00edso (primary)\n2"
+  },
+  {
+    "id": "s8-2",
+    "section": 8,
+    "question": "Which statement best matches the section content? \"1 Primary Base: Cuartel Valpara\u00edso\nThe asset's primary operational base is Cuartel Valpara\u00edso, designated PAMC South Con\"",
+    "choices": [
+      "Salta\n7 (detail)",
+      "Parameter Value\nTotal floor area4,820 m\u00b2\nPersonnel capacity38 (residential), 142 (working)SLATEFALL_DOSSIER",
+      "Two extra-territorial\ndeployments have been authorized since 2019 (Quito 2021, Lima Pan-American Conference 2024)",
+      "1 Primary Base: Cuartel Valpara\u00edso\nThe asset's primary operational base is Cuartel Valpara\u00edso, designated PAMC South Cone\nHeadquarters"
+    ],
+    "answer": 3,
+    "explanation": "1 Primary Base: Cuartel Valpara\u00edso\nThe asset's primary operational base is Cuartel Valpara\u00edso, designated PAMC South Cone\nHeadquarters"
+  },
+  {
+    "id": "s8-3",
+    "section": 8,
+    "question": "Which statement best matches the section content? \"5 Operational Territory\nThe asset's authorized operational territory spans approximately 6\"",
+    "choices": [
+      "8 (detail)",
+      "6 Restricted and Forbidden ZonesSLATEFALL_DOSSIER",
+      "5 Operational Territory\nThe asset's authorized operational territory spans approximately 6",
+      "8 million km\u00b2, encompassing the\nwestern and southern Andean states:\nChile \u2014 full territory, including offshore islands except Easter Island (restricted)\nBolivia \u2014 full territory\nPeru \u2014 full territory south of 10\u00b0S latitude\nArgentina \u2014 provinces of Mendoza, Salta, Jujuy, Neuqu\u00e9n, R\u00edo Negro, and Chubut\nEcuador \u2014 limited to provinces of Azuay, Ca\u00f1ar, and Loja\nParaguay \u2014 observer territory; no engagements authorized\nBeyond this territory, the asset operates only under Director-General authorization"
+    ],
+    "answer": 2,
+    "explanation": "5 Operational Territory\nThe asset's authorized operational territory spans approximately 6"
+  },
+  {
+    "id": "s8-4",
+    "section": 8,
+    "question": "Which statement best matches the section content? \"2 Secondary Bases\nBase Location Function\nEdificio\nMarasolAvenida Salaverry 1840,\nLimaPAMC Headquarters; the asset rotate\"",
+    "choices": [
+      "md 2026-05-18\n36 / 50\nParameter Value\nVehicle bay12 spaces (including 1 armored bay for the Quiltro V-12)\nComms array1 primary Yatiri relay node, 2 backup satellite uplinks\nHelipad 1 (Bell-415 compatible)\nSubsurface levels2 (storage, CBMP regional micro-lab)\nAverage daily population47 personnel\nOperational security levelPAMC Restricted-3\nCuartel Valpara\u00edso houses Cell Halc\u00f3n's principal quarters, the asset's personal residence wing (44 m\u00b2\napartment, Block C), and the regional CBMP medical office",
+      "5)Active\nEach safehouse maintains a standardized provisioning standard:\n30-day rations for 4 personnel\nYatiri-2 backup comms unit\n6 baton-cache replacement setSLATEFALL_DOSSIER",
+      "Antofagasta\n3",
+      "2 Secondary Bases\nBase Location Function\nEdificio\nMarasolAvenida Salaverry 1840,\nLimaPAMC Headquarters; the asset rotates through\nquarterly for senior briefings\nOficina TarijaCalle Bol\u00edvar 412, La PazField office, Bolivian altiplano operations\nAnnex\nTrelewIndustrial Park 7, Trelew,\nArgentinaLogistics-only annex, southern operations\n8"
+    ],
+    "answer": 3,
+    "explanation": "2 Secondary Bases\nBase Location Function\nEdificio\nMarasolAvenida Salaverry 1840,\nLimaPAMC Headquarters; the asset rotates through\nquarterly for senior briefings\nOficina TarijaCalle Bol\u00edvar 412, La PazField office, Bolivian altiplano operations\nAnnex\nTrelewIndustrial Park 7, Trelew,\nArgentinaLogistics-only annex, southern operations\n8"
+  }
+]
